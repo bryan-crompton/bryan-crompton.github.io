@@ -5,7 +5,7 @@ body {
 }
 
 aside {
-	margin-top: 40px;
+	margin-top: 0px;
 	text-align: center;
 	background-color: lightgray;
 	padding: 10px;
@@ -13,20 +13,27 @@ aside {
 
 main {
 	text-align: left;
-	padding: 40px;
-	margin-top: 40px;
-	background-color: lightgreen;
+	padding: 10px;
+	margin-top: 10px;
+	background-color: lightgray;
 }
 
 nav {
 	background-color: lightyellow;
+	margin-bottom: 0px;
+	margin-top: 0px;
 }
 
 .tagline {
 	text-align: left;
 	padding: 10px;
 	margin-top: 10px;
-	background-color: lightgreen;
+	background-color: lightyellow;
+}
+
+ul {
+	padding: 4px;
+	margin: 10px;
 }
 
 li {
@@ -36,7 +43,7 @@ li {
 	box-sizing: border-box;
 	border-width: 3px;
 	border-color: black; 
-	background-color: white;
+	background-color: beige;
 }
  
 .container {
@@ -45,8 +52,8 @@ li {
 }
 
 footer {
-	margin-top: 40px;
-	margin-bottom: 40px;
-	background-color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: lightgray;
 	padding: 10px;
 }
