@@ -24,10 +24,27 @@ nav {
 	margin-top: 0px;
 }
 
+h1 {
+	margin: 0px;
+}
+
+.container2 {
+	max-width: 80%;
+	margin: auto;
+	background-color: lightgreen;
+}
+
+.profile {
+	display: inline-block;
+	margin: 10px;
+}
+
 .tagline {
+	display: inline-block;
 	text-align: left;
-	padding: 10px;
-	margin-top: 10px;
+	max-width: 60%;
+	margin:10px;
+	padding:10px;
 	background-color: lightyellow;
 }
 
